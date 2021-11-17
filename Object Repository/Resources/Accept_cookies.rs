@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Accept_cookies</name>
+   <tag></tag>
+   <elementGuidId>98c5b3f7-4223-4e90-94e7-441f827c16e9</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.kurtosys-menu-toggle__icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;desktop-nav&quot;)/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-row&quot;]/div[@class=&quot;elementor-element elementor-element-7d2b0dd elementor-column elementor-col-25 elementor-top-column&quot;]/div[@class=&quot;elementor-column-wrap  elementor-element-populated&quot;]/div[@class=&quot;elementor-widget-wrap&quot;]/div[@class=&quot;elementor-element elementor-element-1bf055c3 elementor-widget elementor-widget-kurtosys-mega-menu&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;menu-header-menu-container&quot;]/div[@class=&quot;kurtosys-menu-container kurtosys-mobile-menu kurtosys-mobile-menu-active-state&quot;]/button[@class=&quot;kurtosys-mobile-menu-toggle-button&quot;]/i[@class=&quot;kurtosys-menu-toggle__icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='cookies-eu-accept']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kurtosys-menu-toggle__icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop-nav&quot;)/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-row&quot;]/div[@class=&quot;elementor-element elementor-element-7d2b0dd elementor-column elementor-col-25 elementor-top-column&quot;]/div[@class=&quot;elementor-column-wrap  elementor-element-populated&quot;]/div[@class=&quot;elementor-widget-wrap&quot;]/div[@class=&quot;elementor-element elementor-element-1bf055c3 elementor-widget elementor-widget-kurtosys-mega-menu&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;menu-header-menu-container&quot;]/div[@class=&quot;kurtosys-menu-container kurtosys-mobile-menu kurtosys-mobile-menu-active-state&quot;]/button[@class=&quot;kurtosys-mobile-menu-toggle-button&quot;]/i[@class=&quot;kurtosys-menu-toggle__icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='desktop-nav']/div/div/div[2]/div/div/div/div/div/div/button/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+   </webElementXpaths>
+</WebElementEntity>

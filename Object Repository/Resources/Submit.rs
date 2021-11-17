@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Submit</name>
+   <tag></tag>
+   <elementGuidId>1da5b7e1-4c03-4846-83f9-e8161e457f69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pardot-form&quot;]/p[2]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.kurtosys-menu-toggle__icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kurtosys-menu-toggle__icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop-nav&quot;)/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-row&quot;]/div[@class=&quot;elementor-element elementor-element-7d2b0dd elementor-column elementor-col-25 elementor-top-column&quot;]/div[@class=&quot;elementor-column-wrap  elementor-element-populated&quot;]/div[@class=&quot;elementor-widget-wrap&quot;]/div[@class=&quot;elementor-element elementor-element-1bf055c3 elementor-widget elementor-widget-kurtosys-mega-menu&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;menu-header-menu-container&quot;]/div[@class=&quot;kurtosys-menu-container kurtosys-mobile-menu kurtosys-mobile-menu-active-state&quot;]/button[@class=&quot;kurtosys-mobile-menu-toggle-button&quot;]/i[@class=&quot;kurtosys-menu-toggle__icon&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Resources/iframe</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='desktop-nav']/div/div/div[2]/div/div/div/div/div/div/button/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+   </webElementXpaths>
+</WebElementEntity>
